@@ -8,7 +8,7 @@ body {
   background-color: #111;
 }
 
-.roww {
+.row {
   width: 100%;
   object-fit: contain;
   max-height: 100px;
@@ -39,7 +39,7 @@ body {
   transform: scale(1.09);
 }
 
-.row {
+.roww {
   color: white;
   margin-left: 20px;
 }
