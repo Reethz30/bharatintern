@@ -104,12 +104,12 @@ body {
 
 /* nav */
 
-.nav__logo {
+.logo {
   width: 80px;
   object-fit: contain;
 }
 
-.nav__avatar {
+.avatar {
   width: 30px;
   object-fit: contain;
 }
