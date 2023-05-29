@@ -8,7 +8,7 @@ body {
   background-color: #111;
 }
 
-.row__poster {
+.roww {
   width: 100%;
   object-fit: contain;
   max-height: 100px;
@@ -16,26 +16,26 @@ body {
   transition: transform 450ms;
 }
 
-.row__posters {
+.rows {
   display: flex;
   overflow-y: hidden;
   overflow-x: scroll;
   padding: 20px;
 }
 
-.row__poster:hover {
+.row:hover {
   transform: scale(1.08);
 }
 
-.row__posters::-webkit-scrollbar {
+.rows::-webkit-scrollbar {
   display: none;
 }
 
-.row__posterLarge {
+.rowl {
   max-height: 250px;
 }
 
-.row__posterLarge:hover {
+.rowl:hover {
   transform: scale(1.09);
 }
 
